@@ -1,6 +1,6 @@
 # Python_Portfolio__VaR_Tool
 
-## Python-based portfolio / stock widget(app) which sources data from Yahoo Finance and calculates Value-at-Risk (VaR) estimates (along the Historical Simulation, the Variance-Covariance method and Monte Carlo Simultion) and many other risk/return characteristics both on an individual stock and portfolio-basis (constructed with wxPython)
+## Python-based portfolio / stock widget(app) which sources data from Yahoo Finance and calculates Value-at-Risk (VaR) estimates and many other risk/return characteristics both on an individual stock and portfolio-basis (constructed with wxPython)
 
 This app allows one to retrieve stock / index data from Yahoo Finance through Pandas Datareader which are in turn combined with portfolio weights to calculate the following risk / return metrics:
 
