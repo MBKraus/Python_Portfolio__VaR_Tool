@@ -4,6 +4,8 @@
 
 This app allows one to retrieve stock / index data from Yahoo Finance through Pandas Datareader which are in turn combined with portfolio weights to calculate the following risk / return metrics:
 
+<br>
+
  - Expected returns (annual & daily - both an individual stock- and portfolio basis)
  - Expected standard deviation of returns (annual & daily - both an individual stock- and portfolio basis)
  - Annual Sharpe ratios (both an individual stock and portfolio basis)
@@ -13,8 +15,9 @@ This app allows one to retrieve stock / index data from Yahoo Finance through Pa
  - 5% Historical Simulation Value-at-Risk (VaR) estimates on an individual stock- and portfolio basis
  - 5% Variance-Covariance Value-at-Risk (VaR) estimates on an individual stock- and portfolio basis
  - 5% Monte Carlo simulated (along Geometric Brownian Motion) Value-at-Risk (VaR) estimates on an individual stock basis
- 
+
  - stock return correlation matrix
+ <br>
  
 In addition, the data retrieved from Yahoo Finance can be exported in CSV-format through the checkbox on the MainFrame.
 
