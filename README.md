@@ -16,7 +16,7 @@ This app allows one to retrieve stock / index data from Yahoo Finance through Pa
  - 5% Variance-Covariance Value-at-Risk (VaR) estimates on an individual stock- and portfolio basis
  - 5% Monte Carlo simulated (along Geometric Brownian Motion) Value-at-Risk (VaR) estimates on an individual stock basis
 
- - stock return correlation matrix
+ - stock return correlation heatmap
  <br>
  
 In addition, the data retrieved from Yahoo Finance can be exported in CSV-format through the checkbox on the MainFrame.
