@@ -19,7 +19,7 @@ This app allows one to retrieve stock / index data from Yahoo Finance through Pa
 In addition, the data retrieved from Yahoo Finance can be exported in CSV-format through the checkbox on the MainFrame.
 
 #### Screenshot MainFrame
-![alt text](https://raw.githubusercontent.com/Weesper1985/Python_Portfolio__VaR_Tool//master/Main.png)
+![alt text](https://raw.githubusercontent.com/Weesper1985/Python_Portfolio__VaR_Tool/blob/master/Main.png)
 
 Please note - this app requires the following packages / modules in order to function properly:
 
@@ -31,10 +31,10 @@ Please note - this app requires the following packages / modules in order to fun
 - [Numpy and Scipy](https://docs.scipy.org/doc/)
 
 #### Screenshot Descriptive Data
-![alt text](https://raw.githubusercontent.com/Weesper1985/Python_Portfolio__VaR_Tool//master/Tab1.png)
+![alt text](https://raw.githubusercontent.com/Weesper1985/Python_Portfolio__VaR_Tool/blob/master/Tab1.png)
 
 #### Screenshot Value-at-Risk data
-![alt text](https://raw.githubusercontent.com/Weesper1985/Python_Portfolio__VaR_Tool//master/Tab2.png)
+![alt text](https://raw.githubusercontent.com/Weesper1985/Python_Portfolio__VaR_Tool/blob/master/Tab2.png)
 
 #### Screenshot Correlation matrix
-![alt text](https://raw.githubusercontent.com/Weesper1985/Python_Portfolio__VaR_Tool//master/Tab3.png)
+![alt text](https://raw.githubusercontent.com/Weesper1985/Python_Portfolio__VaR_Tool/blob/master/Tab3.png)
