@@ -40,5 +40,5 @@ Please note - this app requires the following packages / modules in order to fun
 #### Screenshot Descriptive Data
 ![alt text](https://github.com/Weesper1985/Python_Portfolio__VaR_Tool/blob/master/Tab11.png)
 
-#### Screenshot Correlation matrix
+#### Screenshot Correlation heatmap
 ![alt text](https://github.com/Weesper1985/Python_Portfolio__VaR_Tool/blob/master/Tab33.png)
