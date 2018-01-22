@@ -1,20 +1,21 @@
 # Python_Portfolio__VaR_Tool
 
-## Python-based portfolio / stock widget(app) which sources data from Yahoo Finance and calculates Value-at-Risk (VaR) estimates and many other risk/return characteristics both on an individual stock and portfolio-basis (constructed with wxPython)
+## Python-based portfolio / stock widget(app) which sources data from Yahoo Finance and calculates different types of Value-at-Risk (VaR) metrics and many other risk/return characteristics both on an individual stock and portfolio-basis, stand-alone and vs. a benchmark of choice (constructed with wxPython)
 
-This wxPython Notebook-app / widget allows one to retrieve stock / index data from Yahoo Finance through Pandas Datareader which are in turn combined with portfolio weights to calculate the following risk / return metrics:
+This wxPython Notebook-app / widget allows one to retrieve stock / index data from Yahoo Finance through Pandas Datareader which are in turn combined with initial portfolio weights and a benchmark of choice to calculate the following risk / return metrics:
 
 <br>
 
- - Expected returns (annual & daily - both an individual stock- and portfolio basis)
- - Expected standard deviation of returns (annual & daily - both an individual stock- and portfolio basis)
- - Annual Sharpe ratios (both an individual stock and portfolio basis)
- - Daily return histograms on an individual stock- basis
- - Adjusted price charts on an individual stock- basis
+ - Historic returns (annual & daily - both an individual stock-, benchmark- and portfolio basis)
+ - Historic standard deviation of returns (annual & daily - both an individual stock-, benchmark- and portfolio basis)
+ - Annual Sharpe ratios (both an individual stock-, benchmark- and portfolio basis)
+ - Ex-post tracking error vs. the benchmark of choice
+ - Daily return histograms on an individual stock- and portfolio basis
+ - Indexed performance charts on an individual stock- and portfolio basis
  
- - 5% Historical Simulation Value-at-Risk (VaR) estimates on an individual stock- and portfolio basis
- - 5% Variance-Covariance Value-at-Risk (VaR) estimates on an individual stock- and portfolio basis
- - 5% Monte Carlo simulated (along Geometric Brownian Motion) Value-at-Risk (VaR) estimates on an individual stock basis
+ - 5% (daily) Historical Simulation Value-at-Risk (VaR) on an individual stock- and portfolio basis
+ - 5% (daily) Variance-Covariance Value-at-Risk (VaR) on an individual stock- and portfolio basis
+ - 5% (daily) Monte Carlo simulated (along Geometric Brownian Motion) Value-at-Risk (VaR) on an individual stock basis
 
  - stock return correlation heatmap
  <br>
@@ -34,10 +35,10 @@ Please note - this app requires the following packages / modules in order to fun
 - [Numpy and Scipy](https://docs.scipy.org/doc/)
 
 #### Screenshot Value-at-Risk data
-![alt text](https://github.com/Weesper1985/Python_Portfolio__VaR_Tool/blob/master/Tab2.png)
+![alt text](https://github.com/Weesper1985/Python_Portfolio__VaR_Tool/blob/master/Tab22.png)
 
 #### Screenshot Descriptive Data
-![alt text](https://github.com/Weesper1985/Python_Portfolio__VaR_Tool/blob/master/Tab1.png)
+![alt text](https://github.com/Weesper1985/Python_Portfolio__VaR_Tool/blob/master/Tab11.png)
 
 #### Screenshot Correlation matrix
-![alt text](https://github.com/Weesper1985/Python_Portfolio__VaR_Tool/blob/master/Tab3.png)
+![alt text](https://github.com/Weesper1985/Python_Portfolio__VaR_Tool/blob/master/Tab33.png)
