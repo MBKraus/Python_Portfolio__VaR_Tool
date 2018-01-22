@@ -22,7 +22,7 @@ This wxPython Notebook-app / widget allows one to retrieve stock / index data fr
 In addition, the data retrieved from Yahoo Finance can be exported in CSV-format through the checkbox on the MainFrame.
 
 #### Screenshot MainFrame
-![alt text](https://github.com/Weesper1985/Python_Portfolio__VaR_Tool/blob/master/Main.png)
+![alt text](https://github.com/Weesper1985/Python_Portfolio__VaR_Tool/blob/master/Main1.png)
 
 Please note - this app requires the following packages / modules in order to function properly:
 
