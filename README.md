@@ -9,6 +9,7 @@ This wxPython Notebook-app / widget allows one to retrieve stock / index data fr
  - Historic returns (annual & daily - both an individual stock-, benchmark- and portfolio basis)
  - Historic standard deviation of returns (annual & daily - both an individual stock-, benchmark- and portfolio basis)
  - Annual Sharpe ratios (both an individual stock-, benchmark- and portfolio basis)
+ - Beta's (both an individual stock-, benchmark- and portfolio basis)
  - Ex-post tracking error vs. the benchmark of choice
  - Daily return histograms on an individual stock- and portfolio basis
  - Indexed performance charts on an individual stock- and portfolio basis
@@ -23,7 +24,7 @@ This wxPython Notebook-app / widget allows one to retrieve stock / index data fr
 In addition, the data retrieved from Yahoo Finance can be exported in CSV-format through the checkbox on the MainFrame.
 
 #### Screenshot MainFrame
-![alt text](https://github.com/Weesper1985/Python_Portfolio__VaR_Tool/blob/master/Main1.png)
+![alt text](https://github.com/Weesper1985/Python_Portfolio__VaR_Tool/blob/master/Main3.png)
 
 Please note - this app requires the following packages / modules in order to function properly:
 
